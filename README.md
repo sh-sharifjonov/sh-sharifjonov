@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Shuhrat 👋</h1>
-<h3 align="center">.NET Backend Developer · Building business applications with ASP.NET Core</h3>
+<h1 align="center">Hi, I'm Shuhrat Sharifjonov 👋</h1>
+<h3 align="center">C# .NET Backend Developer · Building robust backend systems with C# and .NET</h3>
 
 ---
 
 ### 🧑‍💻 About me
 
-- 🏗️ I build **backend systems for business applications**, from warehouse management to other line-of-business tools
-- 🔌 I focus on **ASP.NET Core Web API**: clean, well-structured and secure REST services
-- 🧩 I like **modular architecture**: clear boundaries between modules, easy to grow and maintain
-- 🔐 I care about **security**: authentication, authorization and access control done right
-- 📚 I'm constantly deepening my .NET knowledge and exploring new patterns and tools
+- 🏗️ Backend developer specializing in **C# and .NET**
+- 🔌 Key focus: **Web API development**, **microservice architecture** and **integrations with external services**
+- 🗄️ Data layers on **PostgreSQL** and **MS SQL Server**
+- 🧩 I apply **Clean Architecture**, dependency injection, testing practices and automation to deliver stable solutions
+- 🎯 I turn business requirements into maintainable, production-ready systems
 - 📫 How to reach me: **shuhratjon.sharifjonov@gmail.com**
 
 ---
@@ -19,36 +19,41 @@
 **Languages & Frameworks**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%206%2F7%2F8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 
 **Data**
 
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Tools**
+**DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Approach:** Clean Architecture · API First · Dependency Injection · Testing · Automation
 
 ---
 
-### 🚀 What I'm working on
+### 🚀 Projects
 
-- 📦 **Warehouse Management System**: modular Web API for inventory, stock movements and operations
-- 🔐 Identity & access: role- and permission-based security across modules
+| Project | Description |
+|---|---|
+| **Eskhata.Avia** | ASP.NET Core Web API, EF Core, PostgreSQL, Swagger documentation |
+| **Eskhata.Afisha** | Service-oriented backend with REST endpoints and clean domain structure |
+| **Eskhata.Food** | Scalable API platform for food services with robust data access and versioning |
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sh-sharifjonov&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-sharifjonov&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
