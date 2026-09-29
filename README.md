@@ -68,14 +68,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics" />
-</p>
-
----
-
 <p align="center">
   <a href="https://linkedin.com/in/shuhrat-sharifjonov-389a16243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/shuhrat_sharifjonov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
