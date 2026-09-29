@@ -5,6 +5,10 @@ on:
   schedule: [{cron: "0 3 * * *"}]
   # Кнопка ручного запуска во вкладке Actions
   workflow_dispatch:
+  # Запуск при изменении самого workflow (коммит SVG его не затрагивает, цикла не будет)
+  push:
+    branches: [main]
+    paths: [".github/workflows/metrics.yml"]
 
 jobs:
   github-metrics:
