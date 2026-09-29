@@ -10,7 +10,7 @@
 - 🧩 I like **modular architecture**: clear boundaries between modules, easy to grow and maintain
 - 🔐 I care about **security**: authentication, authorization and access control done right
 - 📚 I'm constantly deepening my .NET knowledge and exploring new patterns and tools
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **shuhratjon.sharifjonov@gmail.com**
 
 ---
 
@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/your-username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/shuhrat-sharifjonov-389a16243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/shuhrat_sharifjonov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:shuhratjon.sharifjonov@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
