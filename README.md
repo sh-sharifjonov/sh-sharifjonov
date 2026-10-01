@@ -10,7 +10,6 @@
 - 🗄️ Data layers on **PostgreSQL** and **MS SQL Server**
 - 🧩 I apply **Clean Architecture**, dependency injection, testing practices and automation to deliver stable solutions
 - 🎯 I turn business requirements into maintainable, production-ready systems
-- 📫 How to reach me: **shuhratjon.sharifjonov@gmail.com**
 
 ---
 
